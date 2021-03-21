@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!--<?xml version="1.0" encoding="UTF-8">-->
+<anq>
+    <ans>
+        <type>good</type>
+        <rank>0</rank>
+        <time>2021-01-01 10:00:10</time>
+    </ans>
+    <ans>
+        <type>bad</type>
+        <rank>3</rank>
+        <time>2021-01-01 10:00:15</time>
+    </ans>
+    <ans>
+        <type>bad</type>
+        <rank>2</rank>
+        <time>2021-01-01 10:00:12</time>
+    </ans>
+    <ans>
+        <type>bad</type>
+        <rank>3</rank>
+        <time>2021-01-01 10:00:11</time>
+    </ans>
+    <ans>
+        <type>bad</type>
+        <rank>1</rank>
+        <time>2021-01-01 10:00:04</time>
+    </ans>
+</anq>
